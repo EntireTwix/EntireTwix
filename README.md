@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Im 18 and very much enjoy programming, my currently prefered language is C++ and optimization/clean solutions is what I find satisfying to pursue
 
 ## Projects
-the `HIGH`, `MEDIUM`, and `LOW` enumerations are relative to myself
+the `HIGH`, `MEDIUM`, and `LOW` enumerations are **relative to myself**
 | Name | possible utility in other code | utility as an app | code quality | Description | 
 | :--- | --- | --- | --- | --- |
 | CCash | N/A | HIGH | HIGH | a webserver hosting a bank for minecraft |
