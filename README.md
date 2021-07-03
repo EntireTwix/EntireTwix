@@ -19,7 +19,7 @@ Im 18 and very much enjoy programming, my currently prefered language is C++ and
 the `HIGH`, `MEDIUM`, and `LOW` enumerations are **relative to myself**
 | Name | possible utility in other code | utility as an app | code quality | Description | 
 | :--- | --- | --- | --- | --- |
-| [CCash](https://github.com/EntireTwix/CCash) | N/A | HIGH | HIGH | a webserver hosting a bank for minecraft |
+| [CCash](https://github.com/EntireTwix/CCash) | N/A | HIGH | HIGH | a webserver hosting a ledger for minecraft |
 | [Matrix](https://github.com/EntireTwix/Matrix) | HIGH | N/A | HIGH | a zero overhead matrix container for C++20 |
 | [Ruminate](https://github.com/EntireTwix/Ruminate) | LOW | N/A | HIGH | a ML library attempt that served as a learning project but may be continued later |
 | [Sudoku](https://github.com/EntireTwix/Sudoku) | N/A | N/A | HIGH | solving Sudoku quickly |
