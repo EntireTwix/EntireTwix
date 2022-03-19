@@ -7,7 +7,6 @@ the `HIGH`, `MEDIUM`, and `LOW` enumerations are **relative to myself**
 | :--- | --- | --- | --- | --- |
 | [CCash](https://github.com/EntireTwix/CCash) | N/A | HIGH | HIGH | a webserver hosting a ledger for minecraft |
 | [Matrix](https://github.com/EntireTwix/Matrix) | HIGH | `N/A` | HIGH | a zero overhead matrix container for C++20 |
-| [Ruminate](https://github.com/EntireTwix/Ruminate) | LOW | `N/A` | HIGH | a ML library attempt that served as a learning project but may be continued later |
 | [Prioritize](https://github.com/EntireTwix/Prioritize) | `N/A` | HIGH | LOW | messing around with imgui yielding a priotization app |
 | [ThreadPool](https://github.com/EntireTwix/ThreadPool) | MEDIUM | `N/A` | MEDIUM | a fast thread pool for C++ |
 
