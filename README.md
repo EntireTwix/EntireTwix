@@ -1,5 +1,5 @@
 # Hello
-Im 19 and very much enjoy programming, my currently prefered language is C++ and optimization/clean solutions is what I find satisfying to pursue
+Im 20 and very much enjoy programming, currently my prefered language is C++
 
 ## Projects
 the `HIGH`, `MEDIUM`, and `LOW` enumerations are **relative to myself**
