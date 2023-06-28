@@ -1,6 +1,3 @@
-# Hello
-Im 20 and very much enjoy programming, currently my prefered language is C++
-
 ## Projects
 the `HIGH`, `MEDIUM`, and `LOW` enumerations are **relative to myself**
 | Name | possible utility in other code | utility as an app | code quality | Description | 
